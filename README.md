@@ -1,4 +1,2 @@
 ## Hi there 👋🏽 
-I'm Deepti Anand, I'm a software engineer 👩🏽‍💻 who is passionate about web technologies.
-
-- 😄 Pronouns: she/her
+I'm Deepti Anand(she/her), I'm a software engineer 👩🏽‍💻 who is passionate about web technologies.
