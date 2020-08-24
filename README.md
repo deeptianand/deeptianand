@@ -1,2 +1,1 @@
-## Hi there 👋🏽 
-I'm Deepti Anand(she/her), I'm a software engineer 👩🏽‍💻 who is passionate about web technologies.
+![](https://media.giphy.com/media/Hw8vYF4DNRCKY/giphy.gif)
